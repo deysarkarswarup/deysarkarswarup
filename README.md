@@ -32,6 +32,11 @@ class Swarup:
     print('📝 Looking forward for Full-Time Job,\
            💼 Currently working as SDE Intern at SNLTR')
            
+Swarup.skills()
+Swarup.interests()
+Swarup.funFact()
+Swarup.currentStatus()
+
 ```
 
 
