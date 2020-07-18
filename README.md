@@ -6,19 +6,19 @@
 
 - 💻 I am a tech-enthusiast and always on a mission to learn something new every day. I’m deeply fascinated by the power of Data Science and Artificial Intelligence and the utility it possesses. My ambition is to bring a change in this world with the help of Machine Learning, Deep Learning and its applications.
 
-<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="350px" />
+<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" />
 
 ```python
 class Swarup:
   def skills():
     #My technical skills 
-    print('🚀Web Development,🚀Internet of Things (IoT),\
-           🚀Embedded Systems, 🚀Android Development,\
-           🚀Web Scraping,🚀Natural language processing,\
-           🚀Deep Learning, 🚀Data Science, 🚀Lumion-8,\
-           🚀Adobe Photoshop, 🚀Adobe Illustrator,\
-           🚀Adobe After Effects, 🚀Adobe Premiere Pro,\
-           🚀Adobe Flash, 🚀Sketch-up-Pro')
+    print('🚀 Web Development, 🚀 Internet of Things (IoT),\
+           🚀 Embedded Systems, 🚀 Android Development,\
+           🚀 Web Scraping,🚀 Natural language processing,\
+           🚀 Deep Learning, 🚀 Data Science, 🚀 Lumion-8,\
+           🚀 Adobe Photoshop, 🚀 Adobe Illustrator,\
+           🚀 Adobe After Effects, 🚀 Adobe Premiere Pro,\
+           🚀 Adobe Flash, 🚀 Sketch-up-Pro')
   
   def interests():
     #My interests
