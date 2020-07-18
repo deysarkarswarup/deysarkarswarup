@@ -1,4 +1,4 @@
-<img src="https://github.com/deysarkarswarup/deysarkarswarup/blob/master/SwarupDeySarkar.gif">
+<img src="https://github.com/deysarkarswarup/deysarkarswarup/blob/master/Swarup_Dey_Sarkar.gif">
 
 - 👨 I'm a competent IT professional with a track record in designing websites, both at the frontend and backend. I'm currently working on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata.  My Other skills involves Internet of Things (IoT) and Embedded Systems. I'm also an Android App Developer.
 
