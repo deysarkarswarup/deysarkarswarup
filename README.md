@@ -62,6 +62,8 @@ Swarup.currentStatus()
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true&hide_border=true)
 
 
+![](https://komarev.com/ghpvc/?username=deysarkarswarup&color=fa6754)
+
 
 # - 💬 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/deysarkarswarup) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/deysarkarswarup)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/deysarkarswarup) [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@deysarkarswarup)
