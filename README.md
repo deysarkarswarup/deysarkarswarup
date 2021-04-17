@@ -57,14 +57,19 @@ Swarup.currentStatus()
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![](https://komarev.com/ghpvc/?username=deysarkarswarup&color=fa6754)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deysarkarswarup&hide_border=true)
 <br><br>
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true&hide_border=true)
 
 
-![](https://komarev.com/ghpvc/?username=deysarkarswarup&color=fa6754)
+
+
 
 
 # - 💬 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/deysarkarswarup) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/deysarkarswarup)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/deysarkarswarup) [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@deysarkarswarup)
+ [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/deysarkarswarup) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/deysarkarswarup)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/deysarkarswarup)   [<img src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="Github logo" width="34">](https://github.com/deysarkarswarup) [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@deysarkarswarup)
+
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
