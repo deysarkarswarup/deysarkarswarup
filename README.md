@@ -7,8 +7,8 @@
 
 - 💻 I am a tech-enthusiast and always on a mission to learn something new every day.
 
-Favourite Quote:
-"The world is the great gymnasium where we come to make ourselves strong."
+Favourite Quote:<br>
+<i>"The world is the great gymnasium where we come to make ourselves strong."</i><br>
 -Swami Vivekananda 
 
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" />
