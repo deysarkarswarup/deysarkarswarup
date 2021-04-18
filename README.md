@@ -1,10 +1,15 @@
 <img src="https://github.com/deysarkarswarup/deysarkarswarup/blob/master/Swarup_Dey_Sarkar.gif">
 
-- 👨 I'm a competent IT professional with a track record in designing websites, both at the frontend and backend. I'm currently working on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata.  My Other skills involves Internet of Things (IoT) and Embedded Systems. I'm also an Android App Developer.
+- 👨 Competent IT professional with a track record in designing websites, both at the front-end and back-end. Currently, working as an Associate Software Engineer - Intern at Sunquest Information Systems. My Other skills involve the Internet of Things (IoT) and Embedded Systems. I'm also an Android App Developer.
 
-- 🔭 Currently pursuing my Masters in Computer Application from Heritage Institute of Technology, Kolkata. I graduated from St. Xavier's College, Kolkata in Computer Science.
+- 🔭 Pursuing Master in Computer Application from Heritage Institute of Technology, Kolkata.
+- 🔭 Graduated from St. Xavier's College, Kolkata in Computer Science.
 
-- 💻 I am a tech-enthusiast and always on a mission to learn something new every day. I’m deeply fascinated by the power of Data Science and Artificial Intelligence and the utility it possesses. My ambition is to bring a change in this world with the help of Machine Learning, Deep Learning and its applications.
+- 💻 I am a tech-enthusiast and always on a mission to learn something new every day.
+
+Favourite Quote:
+"The world is the great gymnasium where we come to make ourselves strong."
+-Swami Vivekananda 
 
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" height="250px" />
 
