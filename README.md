@@ -69,8 +69,18 @@ Swarup.currentStatus()
 ![Swarup Dey Sarkar's github stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true&hide_border=true)
 
 
-![](https://komarev.com/ghpvc/?username=deysarkarswarup&color=fa6754)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deysarkarswarup&label=Profile%20views&color=0e75b6&style=flat" alt="deysarkarswarup" /> </p><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysarkarswarup" alt="deysarkarswarup" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysarkarswarup&show_icons=true&locale=en&layout=compact" alt="deysarkarswarup" /></p><br><br><br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deysarkarswarup&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deysarkarswarup)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deysarkarswarup)  
 
 
 # - 💬 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
