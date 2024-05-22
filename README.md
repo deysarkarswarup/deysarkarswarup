@@ -1,6 +1,6 @@
 <img src="https://github.com/deysarkarswarup/deysarkarswarup/blob/master/Swarup_Dey_Sarkar.gif">
 
-- 👨 Competent IT professional with a track record in designing websites, both at the front-end and back-end. Currently, working as an Associate Software Engineer at Sunquest Information Systems. My Other skills involve the Internet of Things (IoT) and Embedded Systems. I'm also an Android App Developer.
+- 👨 Competent IT professional with a track record in designing websites, both at the front-end and back-end. Currently, working as a Software Engineer at CliniSys Healthcare. My Other skills involve the Internet of Things (IoT) and Embedded Systems. I'm also an Android App Developer.
 
 - 🔭 Software Engineer at Clinisys
 - 🔭 Master in Computer Application from Heritage Institute of Technology, Kolkata.
